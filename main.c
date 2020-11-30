@@ -15,4 +15,5 @@ int main(){
     reverseString("Hello, world!");
     getch();
     return 0;
+    printf("Hello, world!");
 }
